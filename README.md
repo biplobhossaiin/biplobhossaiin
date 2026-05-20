@@ -1,16 +1,39 @@
-## Hi there 👋
+# 🌐 Personal Portfolio Website
 
+This is my personal portfolio website built using HTML, CSS, and JavaScript.  
+It showcases my skills, projects, and contact information as a WordPress & Frontend Developer.
 
-**biplobhossaiin/biplobhossaiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Features
+- Responsive design (Mobile friendly)
+- Modern UI layout
+- Smooth navigation
+- Projects showcase section
+- Contact section
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+## 🛠️ Technologies Used
+- HTML5  
+- CSS3  
+- JavaScript (Basic)  
+- Bootstrap (Optional)
+
+---
+
+## 📌 Purpose
+This project is created to represent my skills and work as a beginner WordPress Developer and Frontend Web Designer.
+
+I am currently learning and improving my skills while working towards freelance opportunities.
+
+---
+
+## 📷 Preview
+(Add screenshot here later)
+
+---
+
+## 📞 Contact
+- GitHub: (your github link)
+- Email: (your email)
