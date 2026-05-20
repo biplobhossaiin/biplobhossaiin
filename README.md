@@ -29,11 +29,6 @@ I am currently learning and improving my skills while working towards freelance 
 
 ---
 
-## 📷 Preview
-(Add screenshot here later)
-
----
-
 ## 📞 Contact
-- GitHub: (your github link)
-- Email: (your email)
+- GitHub: https://github.com/biplobhossaiin
+- Email: wpdvbiplob@gmail.com
