@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/biplobhossaiin/portfolio/main/banner.png" width="150" style="border-radius:50%;">
+</p>
+
 # 👋 Hi there, I'm Biplob
 
 This is my personal portfolio website built using HTML, CSS, and JavaScript.  
