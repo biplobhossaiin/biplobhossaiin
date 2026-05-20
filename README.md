@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/biplobhossaiin/portfolio/main/banner.png" width="100%" />
-</p>
+https://raw.githubusercontent.com/biplobhossaiin/biplobhossaiin/main/banner.png
 # 👋 Hi there, I'm Biplob
 
 This is my personal portfolio website built using HTML, CSS, and JavaScript.  
