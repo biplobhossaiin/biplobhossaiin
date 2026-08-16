@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/biplobhossaiin/biplobhossaiin/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/biplobhossaiin/biplobhossaiin/main/banners (2).png" width="100%" />
 </p>
 
 # 👋 Hi there, I'm Biplob
